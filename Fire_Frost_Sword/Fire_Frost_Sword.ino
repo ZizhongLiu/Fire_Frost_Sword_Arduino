@@ -2,7 +2,7 @@
 /// @file    Fire_Frost_Sword.ino
 /// @brief   Simple one-dimensional fire animation with a programmable color palette
 /// @example Fire2012WithPalette.ino
-/// @authors Zizhong Liu & Nathan Vrubel @ Chevron Corp.
+/// @authors Zizhong Liu & Nathan Vrubel.
 
  * References:
  * https://github.com/FastLED/FastLED/blob/master/examples/Fire2012WithPalette/Fire2012WithPalette.ino
